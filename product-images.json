@@ -1,0 +1,34 @@
+{
+    "amara-wrap-dress": {
+        "src": "https://images.pexels.com/photos/19222080/pexels-photo-19222080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Model in a tailored wrap dress, studio portrait"
+    },
+    "veld-wide-leg-trouser": {
+        "src": "https://images.pexels.com/photos/31132019/pexels-photo-31132019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Contemporary fashion portrait of a woman in a minimal interior"
+    },
+    "sunday-linen-shirt": {
+        "src": "https://images.pexels.com/photos/7450781/pexels-photo-7450781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Portrait of a woman in a crisp pale shirt"
+    },
+    "kirstenbosch-midi": {
+        "src": "https://images.pexels.com/photos/25839701/pexels-photo-25839701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Woman in a long dress walking through a meadow at sunset"
+    },
+    "cape-town-trench": {
+        "src": "https://images.pexels.com/photos/17014447/pexels-photo-17014447.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "alt": "Studio portrait of a woman in a hat and blazer"
+    },
+    "maroon-silk-camisole": {
+        "src": "https://images.pexels.com/photos/36098031/pexels-photo-36098031.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "alt": "Minimalist portrait of a woman in a maroon top"
+    },
+    "sunset-linen-skirt": {
+        "src": "https://images.pexels.com/photos/10570760/pexels-photo-10570760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Woman in a brown dress standing by the ocean in golden light"
+    },
+    "bo-kaap-silk-scarf": {
+        "src": "https://images.pexels.com/photos/1488470/pexels-photo-1488470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Colourful jackets hanging on a clothing rack"
+    }
+}
