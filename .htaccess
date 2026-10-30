@@ -1,0 +1,3 @@
+<Files "private-config.php">
+  Require all denied
+</Files>
