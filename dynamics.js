@@ -1,7 +1,7 @@
 var cart = [];
 var catalog = Object.create(null);
 
-const API_URL = "https://xxxxxxxxxx.execute-api.eu-north-1.amazonaws.com";
+const API_URL = "https://5gc1iwcv9i.execute-api.eu-north-1.amazonaws.com";
 
 async function loadProducts() {
   const response = await fetch(`${API_URL}/products`);
